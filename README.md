@@ -12,3 +12,4 @@
 ## Seções
 
 ### [Seção 2: Gerenciamento de bancos de dados](./SECAO2.md)
+### [Seção 3: Inserção de dados](./SECAO3.md)
