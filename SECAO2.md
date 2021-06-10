@@ -1,5 +1,9 @@
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=25>
+  <sup><a href="https://github.com/joaovictornsv/curso_mongodb">Voltar ao início</a></sup>
+</div>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=100>
   <h1>Seção 2</h1>
   <h2>Gerenciamento de bancos de dados</h2>
 </div>
