@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=100>
   <h1>Curso MongoDB</h1>
   <h3>Professor Matheus Battisti</h3>
+  
+  [Link do curso](https://www.udemy.com/course/mongodb-do-basico-ao-avancado-c-mongoose-e-projetos/)
+  
 </div>
 
 <br/>
