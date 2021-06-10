@@ -6,4 +6,6 @@
 
 <br/>
 
-## [Seção 2: Gerenciamento de bancos de dados](./SECAO2.md)
+## Seções
+
+### [Seção 2: Gerenciamento de bancos de dados](./SECAO2.md)
