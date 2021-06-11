@@ -14,3 +14,4 @@
 ### [Seção 2: Gerenciamento de bancos de dados](./SECAO2.md)
 ### [Seção 3: Inserção de dados](./SECAO3.md)
 ### [Seção 4: Leitura de dados](./SECAO4.md)
+### [Seção 5: Atualização de dados](./SECAO5.md)
