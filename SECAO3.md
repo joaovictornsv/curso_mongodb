@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Seção 3</h1>
-  <h2>inserção de dados</h2>
+  <h2>Inserção de dados</h2>
 </div>
 
 <br/>
