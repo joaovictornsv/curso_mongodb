@@ -15,3 +15,4 @@
 ### [Seção 3: Inserção de dados](./SECAO3.md)
 ### [Seção 4: Leitura de dados](./SECAO4.md)
 ### [Seção 5: Atualização de dados](./SECAO5.md)
+### [Seção 6: Remoção de dados](./SECAO6.md)
