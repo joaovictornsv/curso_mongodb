@@ -25,7 +25,7 @@ db.<collection>.insertMany([ <dados...> ])
 É uma configuração que pode ser inserida no `insertMany`. Ela permite limitar o tempo de execução da inserção, retornando um erro de *time out* caso exceda o mesmo.
 
 Exemplo:
-```bash
+```diff
 db.<collection>.insertMany([ <dados...> ], { w: 'majority', wtimeout: 100 })
 # A inserção tem 100ms para ser executada
 ```

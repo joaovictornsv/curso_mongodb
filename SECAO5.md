@@ -14,7 +14,7 @@
 
 O operador `$set` é onde ficam os valores a serem atualizados
 
-```bash
+```diff
 db.<collection>.updateOne({ <filtro> }, { $set: { <atualizações> } })
 
 # Ex
@@ -23,7 +23,7 @@ db.books.updateOne({ _id: 314 }, { $set: { pageCount: 1000 } })
 
 
 - Atualizando vários dados
-```bash
+```diff
 db.<collection>.updateMany({ <filtro> }, { $set: { <atualizações> } })
 
 # Ex

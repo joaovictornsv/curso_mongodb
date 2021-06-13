@@ -16,7 +16,7 @@ show dbs
 ```
 
 - Criando banco temporário (ou mudando de banco)
-```bash
+```diff
 #Inicializa o banco
 use <banco>
 ```

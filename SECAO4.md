@@ -11,7 +11,7 @@
 <br/>
 
 - Encontrar todos os dados
-```bash
+```diff
 db.<collection>.find()
 
 # ou
@@ -27,7 +27,7 @@ db.<collection>.find().pretty()
 ```
 
 - Encontrando um dado específico
-```bash
+```diff
 db.<collection>.find({ <filtro> })
 
 # Ex:
