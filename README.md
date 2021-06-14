@@ -16,4 +16,4 @@
 ### [Seção 4: Leitura de dados](./SECAO4.md)
 ### [Seção 5: Atualização de dados](./SECAO5.md)
 ### [Seção 6: Remoção de dados](./SECAO6.md)
-### [Seção 8: Remoção de dados](./SECAO8.md)
+### [Seção 8: Operadores de query](./SECAO8.md)
