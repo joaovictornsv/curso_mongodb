@@ -17,3 +17,4 @@
 ### [Seção 5: Atualização de dados](./SECAO5.md)
 ### [Seção 6: Remoção de dados](./SECAO6.md)
 ### [Seção 8: Operadores de query](./SECAO8.md)
+### [Seção 9: Relacionamentos (Modelagem de dados)](./SECAO9.md)
