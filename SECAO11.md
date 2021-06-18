@@ -91,5 +91,5 @@ Para adicionar mais itens com o `$push` precisamos do operador `$each`
 
 Remove vários itens de um array
 ```
-.updateOne({ ... }, { $pullAll: { categories: ['Linux', 'Docker] } })
+.updateOne({ ... }, { $pullAll: { categories: ['Linux', 'Docker'] } })
 ```
