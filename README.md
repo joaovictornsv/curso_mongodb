@@ -20,3 +20,4 @@
 ### [Seção 9: Relacionamentos (Modelagem de dados)](./SECAO9.md)
 ### [Seção 10: Seleção de arrays e documents](./SECAO10.md)
 ### [Seção 11: Operadores de update](./SECAO11.md)
+### [Seção 12: Índices no MongoDB](./SECAO12.md)
